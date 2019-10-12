@@ -1,0 +1,47 @@
+SAAS : Software As a Service
+	Consumer
+	eg google doc
+	- SaaS utilizes the internet to deliver applications, which are managed by a third-party vendor, to its users.
+	- run directly through your web browser
+
+
+
+PAAS : Platform As a Service
+	Hosting their application
+	also called as SME--Subject Matter Expert
+	eg aws,azure,gps
+
+IAAS : Infrastructure As a Service
+	they have their own consumer,Applications,servers
+	They only require computing environment
+	virtual machines like storage, network(bandwidth),application computation(Gives processing power)
+
+	
+
+Data Center : Bare Metal Hypervisor
+Virtualization : Ec2 (Elastic computing) Instances-virtual macines
+Containers : Docker Images 
+Runtimes : java/nodes
+Servers : Websites, webservices, CMS, BI--------- CLusters
+Microservices 
+container orchestration
+high performance computing--cpu+gpu
+major cloud provider------------AWS,Azure,GCP--Google cloud platform......they owns the datatcenters
+
+webfarm :-
+	crowler
+	index server
+	application server
+
+
+
+ google online services
+ Doc
+site
+chat
+Map 
+excelsheet
+Drive
+photos
+translate 
+
